@@ -2,19 +2,19 @@
 
 ##### Countdown Timer-1
 
-> ![new-year-countdown-timer](https://imgur.com/gallery/IMixz1q)
+> ![new-year-countdown-timer](https://github.com/ikramdeveloper/Countdown-timers-JS/blob/master/projects-images/countdown-timer-1.png?raw-true)
 
 ##### Countdown Timer-2
 
-> ![sale-countdown-timer](https://imgur.com/gallery/IMixz1q)
+> ![sale-countdown-timer](https://github.com/ikramdeveloper/Countdown-timers-JS/blob/master/projects-images/countdown-timer-2.png?raw-true)
 
 ##### Countdown Timer-3
 
-> ![new-year-countdown-timer](https://imgur.com/gallery/IMixz1q)
+> ![new-year-countdown-timer](https://github.com/ikramdeveloper/Countdown-timers-JS/blob/master/projects-images/countdown-timer-3.png?raw-true)
 
 ##### Countdown Timer-4
 
-> ![new-year-countdown-timer](https://imgur.com/gallery/IMixz1q)
+> ![new-year-countdown-timer](https://github.com/ikramdeveloper/Countdown-timers-JS/blob/master/projects-images/countdown-timer-4.png?raw-true)
 
 ###### Warning:
 
