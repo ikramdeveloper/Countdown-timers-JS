@@ -6,7 +6,7 @@
 
 ##### Countdown Timer-2
 
-> ![sale-countdown-timer](https://github.com/ikramdeveloper/Countdown-timers-JS/blob/master/projects-images/countdown-timer-2.png?raw-true)
+> ![giveaway-countdown-timer](https://github.com/ikramdeveloper/Countdown-timers-JS/blob/master/projects-images/countdown-timer-2.png?raw-true)
 
 ##### Countdown Timer-3
 
